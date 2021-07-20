@@ -5,10 +5,13 @@
 - 🥅 2021 Goals: Embracing Infrastructure as Code and improving my observability skillset
 - ⚡ Fun facts: I coach [American Football][potros] and I play the bass guitar
 
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="iponce42's Spotify Playing" width="350" />](https://open.spotify.com/user/blacknack)
+
 ### Connect with me:
 
 [<img align="left" alt="iponce42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
