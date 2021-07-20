@@ -3,7 +3,7 @@
 - 👀 I’m interested in software development, developer experience and the cloud.
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Embracing Infrastructure as Code and improving my observability skillset
-- ⚡ Fun facts: I coach [American Football][potros] and I play the bass guitar
+- ⚡ Fun facts: I coach [American football][potros] and I play the bass guitar
 
 ### Spotify Playing 🎧
 
@@ -44,7 +44,7 @@
 
 [lantum]: http://www.lantum.com
 [linkedin]: https://www.linkedin.com/in/iponce/
-[potros]: http://fb.com/potrosfa
+[potros]: http://fb.com/fuengirolapotros
 
 
 <!---
