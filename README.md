@@ -1,6 +1,6 @@
 ### Hi there, I'm Nacho! I'm a Lead Backend & DevOps Engineer at [Lantum][lantum] 👋
 
-- 👀 I’m interested in software development, developer experience and the cloud.
+- 👀 I’m interested in software development, developer experience and the cloud
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Embracing Infrastructure as Code and improving my observability skillset
 - ⚡ Fun facts: I coach [American football][potros] and I play the bass guitar
