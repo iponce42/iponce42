@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="iponce42 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="iponce42 | LinkedIn" width="22px" src="https://www.lawyersandsettlements.com/blog/wp-content/uploads/2013/09/LinkedIn-Logo-02.png" />][linkedin]
 
 <details>
   <summary>:zap: GitHub Stats</summary>
