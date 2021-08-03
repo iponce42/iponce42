@@ -30,7 +30,8 @@
 <img align="left" alt="Redis" width="26px" src="https://thenewstack.io/wp-content/uploads/2015/03/redis-logo.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://course.adinusa.id/media/images/logo-k8s.png" />
 <img align="left" alt="Terraform" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Elasticsearch" width="26px" src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" />
+<img align="left" alt="Git" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/09/2100px-Elasticsearch_logo.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
