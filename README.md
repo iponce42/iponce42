@@ -22,7 +22,7 @@
 <img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Java" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo.png" />
-<img align="left" alt="Scala" width="26px" src="https://dwglogo.com/wp-content/uploads/2017/09/1300px-Scala_logo.png" />
+<img align="left" alt="Scala" width="26px" src="https://i.pinimg.com/originals/03/4d/c9/034dc9e372d9f1cb59c34043608988bf.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Redis" width="26px" src="https://thenewstack.io/wp-content/uploads/2015/03/redis-logo.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://course.adinusa.id/media/images/logo-k8s.png" />
